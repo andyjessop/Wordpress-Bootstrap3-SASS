@@ -1,0 +1,12 @@
+{
+  "name": "wordpress-bootstrap3-haml-sass",
+  "author": "Andy Jessop",
+  "version": "0.0.1",
+  "dependencies": {
+    "grunt": "0.4.x",
+    "grunt-contrib-sass": "0.3.x",
+    "grunt-contrib-livereload": "0.1.x",
+    "grunt-regarde": "0.1.x",
+    "grunt-contrib-watch": "0.5.x"
+  }
+}
